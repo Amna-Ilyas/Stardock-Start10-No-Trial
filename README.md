@@ -1,0 +1,1 @@
+# Stardock-Start10-No-Trial

